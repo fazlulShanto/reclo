@@ -18,7 +18,7 @@ export const clearDb = () => {
 };
 export const readDb = () => {
     try {
-		console.log(dbPath)
+		//console.log(dbPath)
         const data = fs.readFileSync(dbPath, {
             encoding: "utf-8",
             flag: "r",

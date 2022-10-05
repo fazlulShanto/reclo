@@ -1,6 +1,6 @@
 # Reclo
 
-[![NPM version](https://img.shields.io/static/v1?label=npm&message=1.0.3&color=blueviolet)](https://www.npmjs.com/package/reclo)
+[![NPM version](https://img.shields.io/static/v1?label=npm&message=1.0.5&color=blueviolet)](https://www.npmjs.com/package/reclo)
 
 A  node CLI to Clone Github repositories.
 
