@@ -7,7 +7,7 @@ A  node CLI to Clone Github repositories.
 
 # Installation
 
-`npm install simple-git`
+`npm install -g reclo`
 
 # System Dependencies
 
